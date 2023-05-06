@@ -1,10 +1,14 @@
 // ==UserScript==
-// @name         Neptun captcha méret növelő
+// @name         Obudai_Neptun_Fix
 // @namespace    Tampermonkey
 // @version      1.1
-// @description  Növeli a captcha kép méretét négyszeresére a Neptun bejelentkező oldalon.
-// @author       Z
+// @description  Neptun butaságok javitása :)
+// @author       Zar
 // @match        https://neptun.uni-obuda.hu/hallgato/login.aspx
+// @supportURL   https://github.com/zarailaszlo/OE_NeptunPWR/
+// @contributionURL https://github.com/zarailaszlo/OE_NeptunPWR/
+// @namespace   https://github.com/zarailaszlo/OE_NeptunPWR/
+// @updateURL   https://github.com/zarailaszlo/OE_NeptunPWR/OE_NeptunPWR.user.js
 // @grant        none
 // ==/UserScript==
 
