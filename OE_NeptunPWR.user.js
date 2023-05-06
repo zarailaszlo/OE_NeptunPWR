@@ -8,6 +8,7 @@
 // @supportURL   https://github.com/zarailaszlo/OE_NeptunPWR/
 // @namespace   https://github.com/zarailaszlo/OE_NeptunPWR/
 // @updateURL   https://github.com/zarailaszlo/OE_NeptunPWR/raw/main/OE_NeptunPWR.user.js
+// @downloadURL https://github.com/zarailaszlo/OE_NeptunPWR/raw/main/OE_NeptunPWR.user.js
 // @grant        none
 // ==/UserScript==
 
