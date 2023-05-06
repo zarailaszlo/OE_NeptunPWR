@@ -6,7 +6,6 @@
 // @author       Zar
 // @match        https://neptun.uni-obuda.hu/hallgato/login.aspx
 // @supportURL   https://github.com/zarailaszlo/OE_NeptunPWR/
-// @contributionURL https://github.com/zarailaszlo/OE_NeptunPWR/
 // @namespace   https://github.com/zarailaszlo/OE_NeptunPWR/
 // @updateURL   https://github.com/zarailaszlo/OE_NeptunPWR/raw/main/OE_NeptunPWR.user.js
 // @grant        none
