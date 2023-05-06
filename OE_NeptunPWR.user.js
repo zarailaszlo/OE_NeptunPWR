@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Obudai_Neptun_Fix
 // @namespace    Tampermonkey
-// @version      1.1
+// @version      1.2
 // @description  Neptun butaságok javitása :)
 // @author       Zar
 // @match        https://neptun.uni-obuda.hu/hallgato/login.aspx
