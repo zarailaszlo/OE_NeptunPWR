@@ -6,6 +6,6 @@ Nincs itt semmi látnivaló
 
 Ha tudod, mit csinálsz, [ITT töltheted le a legfrissebb verziót](https://github.com/zarailaszlo/OE_NeptunPWR/releases/download/v1.2/OE_NeptunPWR.user.js) 
 
-# Funkciók:
+## Funkciók:
 - *Captcha kép méret növelése*
 - *Login kép eltávolitása*
